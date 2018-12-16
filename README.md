@@ -1,6 +1,6 @@
 # MERN
 
-[![Build Status](https://travis-ci.org/gal1419/HalNet-Server.svg?branch=master)](https://travis-ci.org/gal1419/HalNet-Server)
+[![Build Status](https://travis-ci.com/gal1419/MERN.svg?branch=master)](https://travis-ci.org/gal1419/MERN)
 
 This is a boilerplate to build a full stack web application using React, Node.js, Typescript, Express and Webpack. It is also configured with webpack-dev-server, eslint, prettier and babel. This project based on the [simple-react-full-stack](https://github.com/crsandeep/simple-react-full-stack);
 
@@ -37,10 +37,10 @@ In the production mode, we will have only 1 server running. All the client side 
 
 ```bash
 # Clone the repository
-git clone https://github.com/gal1419/HalNet-Server.git HalNet
+git clone https://github.com/gal1419/MERN.git MERN
 
 # Go inside the directory
-cd HalNet
+cd MERN
 
 # Install dependencies
 yarn
