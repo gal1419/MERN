@@ -1,8 +1,8 @@
-# simple-react-full-stack
+# MERN
 
 [![Build Status](https://travis-ci.org/gal1419/HalNet-Server.svg?branch=master)](https://travis-ci.org/gal1419/HalNet-Server)
 
-This is a boilerplate to build a full stack web application using React, Node.js, Express and Webpack. It is also configured with webpack-dev-server, eslint, prettier and babel.
+This is a boilerplate to build a full stack web application using React, Node.js, Typescript, Express and Webpack. It is also configured with webpack-dev-server, eslint, prettier and babel. This project based on the [simple-react-full-stack](https://github.com/crsandeep/simple-react-full-stack);
 
 - [simple-react-full-stack](#simple-react-full-stack)
   - [Introduction](#introduction)
@@ -22,8 +22,6 @@ This is a boilerplate to build a full stack web application using React, Node.js
       - [Installation guide](#installation-guide)
 
 ## Introduction
-
-This project is based on a the [simple-react-full-stack](https://github.com/crsandeep/simple-react-full-stack);
 
 This is a full stack [React](https://reactjs.org/) application with a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) backend. Client side code is written in React and the backend API is written using Express. This application is configured with [Airbnb's ESLint rules](https://github.com/airbnb/javascript) and formatted through [prettier](https://prettier.io/).
 
